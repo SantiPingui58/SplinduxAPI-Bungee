@@ -1,0 +1,5 @@
+name: SplinduxCoreBungee
+main: me.santipingui58.bungee.Main
+version: 1.0
+author: SantiPingui58
+depends: [SplinduxAPI,SplinduxData]

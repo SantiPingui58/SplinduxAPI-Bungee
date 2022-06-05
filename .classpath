@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="H:/Servers/Filezilla/BungeeCord.jar"/>
+	<classpathentry kind="lib" path="H:/Servers/BungeeSplindux/proxy/plugins/PremiumConnector-2.3.2 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/eclipse-workspace/SplinduxDatabase-Bungee/target/SplinduxData-Bungee-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/eclipse-workspace/SplinduxAPI-Bungee/target/SplinduxAPI-Bungee-0.0.1-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="H:/Servers/Filezilla/RedirectPlus-2.12.0.jar"/>
+	<classpathentry kind="lib" path="H:/Servers/Filezilla/luckperms-api-5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/eclipse-workspace/SplinduxTranslateAPI-Bungee/target/SplinduxTranslateAPI-Bungee-0.0.1-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

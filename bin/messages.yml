@@ -1,0 +1,132 @@
+queue_open:
+    en: '&a&lOPEN'
+    es: '&a&lABIERTAS'
+    ru: '&a&lОТКРЫТ'
+closed_open:
+    en: '&c&lCLOSED'
+    es: '&c&lCERRADAS'
+    ru: '&c&lЗАКРЫТО'
+queue_change_state:
+    en: '&b&lGame Queues are now: %arg0%'
+    es: '&b&lLas colas de juegos ahora estan: %arg0%'
+    ru: '&b&lОчереди игр теперь: %arg0%'
+queues_are_closed:
+    en: '&cGame Queues are currently closed.'
+    es: '&cLas colas de juegos estan actualmente cerradas.'
+    ru: ''
+cant_use_command_ingame:
+    en: '&cYou cant use this command in game.'
+    es: '&cNo puedes usar este comando dentro del juego.'
+    ru: ''
+use_of_command:
+    en: '&aUse of command: %arg0%'
+    es: '&aUso del comando: %arg0%'
+    ru: ''
+only_odd_duel:
+    en: '&cYou can only duel an odd amount of players (1,3,5,7,etc.).'
+    es: '&cSolo puedes enviar duelos a una cantidad impar de jugadores (1,3,5,7,etc.)'
+    ru: ''
+no_teamspleef_permission:
+    en: '&cYou do not have permission to duel players for a %arg0%V%arg0%, try using the lobbys NPCs'
+    es: '&cNo tienes permiso para hacer una partida %arg0%V%arg0%, intenta usar los NPCs del lobby'
+    ru: ''
+no_rank_permission:
+    en: '&aYou need a %arg0% &aRank or higher to use this, visit the store for more info: &bhttp://store.splindux.com/'
+    es: 'Necesitas un rango %arg0% &ao mas alto para usar esto, visita nuestra tienda para mas info: &bhttp://store.splindux.com/'
+    ru: '' 
+only_duel_once:
+    en: '&cYou can only duel the same player once...'
+    es: '&cSolo puedes enviar duelo al mismo jugador una vez...'
+    ru: ''
+player_already_ingame:
+    en: '&cThe player &b%arg0% &cis already in game.'
+    es: '&cEl jugador &b%arg0% &cya se encuentra en una partida'
+    ru: ''
+already_sent_duel:
+    en: '&cYou have already sent a duel request to this player!'
+    es: '&cYa has enviado una invitacion de duelo a este jugador!'
+    ru: ''
+cant_duel_yourself:
+    en: '&cYou cant duel yourself...'
+    es: '&cNo puedes enviarte un duelo a ti mismo...'
+    ru: ''
+player_not_online:
+    en: '&cThe player &b%arg0% &cdoes not exist or is not online'
+    es: '&cEl jugador &b%arg0% &cno existe o no se encuentra conectado'
+    ru: ''
+sent_duel_1v1:
+    en: '&aYou have sent a duel request to &b%arg0% &afor %arg1% &ain map %arg2%!'
+    es: '&aHas enviado una invitacion de duelo a &b%arg0% &apara %arg1% &aen el mapa %arg2%!'
+    ru: ''
+recieved_duel:
+    en: '&aThe player &b%arg0% &ahas sent you a duel request for %arg1% &ain map %arg2%! &7(This request expires in 1 minute.)'
+    es: '&aEl jugador &b%arg0% &ate ha invitado a un duelo de %arg1% &aen el mapa %arg2%! &7(Esta invitacion expira en 1 minuto.)'
+    ru: ''
+sent_duel_team:
+    en: '&aYou have sent a duel request to multiple players &afor %arg0% &ain map %arg1%!'
+    es: '&aHas enviado una invitacion a varios jugadores para %arg0% en el mapa %arg1%!'
+    ru: ''
+already_accepted_duel:
+    en: '&cYou already accepted this request.'
+    es: '&cYa has aceptado esta invitacion.'
+    ru: ''
+accept_duel:
+    en: '&aAccept duel request'
+    es: '&aAceptar la invitacion de duelo'
+    ru: ''
+deny_duel:
+    en: '&cDeny duel request'
+    es: '&cRechazar invitacion de duelo'
+    ru: ''
+cancel_duel:
+    en: '&cCancel duel request'
+    es: '&cCancelar invitacion de duelo'
+    ru: '' 
+accept:
+    en: 'ACCEPT'
+    es: 'ACEPTAR'
+    ru: ''
+deny:
+    en: 'DENY'
+    es: 'RECHAZAR'
+    ru: ''
+cancel:
+    en: 'CANCEL DUEL'
+    es: 'CANCELAR DUELO'
+    ru: ''  
+has_accepted_duel:
+    en: '&6%arg0% &ahas accepted the request! &7(Left to accept: %arg1%)'
+    es: '&6%arg0% &aha aceptado la invitacion! &7(Faltan por aceptar: %arg1%)'
+    ru: ''
+random_map:
+    en: 'Random map'
+    es: 'Mapa al azar'
+    ru: ''
+cannot_execute_here:
+    en: '&cYou cannot execute this command here.'
+    es: '&cNo puedes ejecutar este comando aqui.'
+    ru: ''
+duel_expired:
+    en: '&cThis duel request has expired or the player didnt send you a duel request!'
+    es: '&cEsta invitacion de duelo ha expirado o el jugador no te ha enviado una!'
+    ru: ''
+duel_ended:
+    en: '&cThis duel request has ended since the player isnt online!'
+    es: '&cEsta invitacion de duelo ha finalizado ya que el jugador no se encuentra en linea.'
+    ru: ''
+duel_cancelled:
+    en: '&b%arg0% &chas cancelled the duel request'
+    es: '&b%arg0% &cha cancelado la invitacion de duelo'
+    ru: ''
+you_have_duel_cancelled:
+    en: '&cYou have cancelled the duel request.'
+    es: '&cHas cancelado la invitacion de duelo.'
+    ru: ''
+you_have_denied_dueled:
+    en: '&cYou have denied the duel request from &b%arg0%&c!'
+    es: '&cHas rechazado la invitacion de duelo de &b%arg0%&c!'
+    ru: '' 
+duel_denied:
+    en: '&cThe player &b%arg0% &chas denied the request! Duel cancelled.'
+    es: '&cEl jugador &b%arg0% &cha rechazado la invitacion! Duelo cancelado.'
+    ru: ''
